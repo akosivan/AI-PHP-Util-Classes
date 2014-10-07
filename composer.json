@@ -1,0 +1,8 @@
+{
+    "name": "akosivan/phputils",
+    "autoload": {
+        "psr-0" : {
+            "AI" : "src"
+        }
+    }
+}
